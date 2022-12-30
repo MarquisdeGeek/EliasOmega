@@ -32,3 +32,9 @@ const elias = new EliasOmega(EliasOmega.biAllIntegers);
 
 ```
 
+Or, if using this as a module, simply:
+
+```
+const EliasOmega = require('eliasomega');
+```
+
